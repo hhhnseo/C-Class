@@ -1,0 +1,10 @@
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\bin\Debug\WinForm_1.exe.config
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\bin\Debug\WinForm_1.exe
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\bin\Debug\WinForm_1.pdb
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.csproj.AssemblyReference.cache
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.Form1.resources
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.Properties.Resources.resources
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.csproj.GenerateResource.cache
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.csproj.CoreCompileInputs.cache
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.exe
+F:\C#\Study_A\6th\WinForm_1\WinForm_1\obj\Debug\WinForm_1.pdb
