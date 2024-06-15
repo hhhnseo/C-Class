@@ -1,0 +1,7 @@
+F:\C#\Study_A\13th\sln_13\project_\bin\Debug\project_.exe.config
+F:\C#\Study_A\13th\sln_13\project_\bin\Debug\project_.exe
+F:\C#\Study_A\13th\sln_13\project_\bin\Debug\project_.pdb
+F:\C#\Study_A\13th\sln_13\project_\obj\Debug\project_1.csproj.AssemblyReference.cache
+F:\C#\Study_A\13th\sln_13\project_\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+F:\C#\Study_A\13th\sln_13\project_\obj\Debug\project_.exe
+F:\C#\Study_A\13th\sln_13\project_\obj\Debug\project_.pdb

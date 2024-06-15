@@ -5,3 +5,10 @@ D:\Study_A\2nd\sln_2\Project_1\obj\Debug\Project_1.csproj.AssemblyReference.cach
 D:\Study_A\2nd\sln_2\Project_1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
 D:\Study_A\2nd\sln_2\Project_1\obj\Debug\Project_1.exe
 D:\Study_A\2nd\sln_2\Project_1\obj\Debug\Project_1.pdb
+C:\C-Class\Midterm\2nd\sln_2\Project_1\bin\Debug\Project_1.exe.config
+C:\C-Class\Midterm\2nd\sln_2\Project_1\bin\Debug\Project_1.exe
+C:\C-Class\Midterm\2nd\sln_2\Project_1\bin\Debug\Project_1.pdb
+C:\C-Class\Midterm\2nd\sln_2\Project_1\obj\Debug\Project_1.csproj.AssemblyReference.cache
+C:\C-Class\Midterm\2nd\sln_2\Project_1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+C:\C-Class\Midterm\2nd\sln_2\Project_1\obj\Debug\Project_1.exe
+C:\C-Class\Midterm\2nd\sln_2\Project_1\obj\Debug\Project_1.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_A\\14th\\sln_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD9B02-8FC6-4DA0-9339-64829DB62BAD}|LambdaBasic\\LambdaBasic.csproj|d:\\study_a\\14th\\sln_14\\lambdabasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD9B02-8FC6-4DA0-9339-64829DB62BAD}|LambdaBasic\\LambdaBasic.csproj|solutionrelative:lambdabasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50D6014-FFB0-4181-9820-BA5EF2D799D6}|UnnamedDelegate\\UnnamedDelegate.csproj|d:\\study_a\\14th\\sln_14\\unnameddelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50D6014-FFB0-4181-9820-BA5EF2D799D6}|UnnamedDelegate\\UnnamedDelegate.csproj|solutionrelative:unnameddelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EFA6B7-C1ED-476C-A003-7B61B874EDA2}|SortWithDelegate\\SortWithDelegate.csproj|d:\\study_a\\14th\\sln_14\\sortwithdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EFA6B7-C1ED-476C-A003-7B61B874EDA2}|SortWithDelegate\\SortWithDelegate.csproj|solutionrelative:sortwithdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3083B22D-10C7-4CF9-8983-06DF3286041F}|Delegate\\Delegate.csproj|d:\\study_a\\14th\\sln_14\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3083B22D-10C7-4CF9-8983-06DF3286041F}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study_A\\14th\\sln_14\\LambdaBasic\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaBasic\\Program.cs",
+              "ToolTip": "D:\\Study_A\\14th\\sln_14\\LambdaBasic\\Program.cs",
+              "RelativeToolTip": "LambdaBasic\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:35:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study_A\\14th\\sln_14\\UnnamedDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "UnnamedDelegate\\Program.cs",
+              "ToolTip": "D:\\Study_A\\14th\\sln_14\\UnnamedDelegate\\Program.cs",
+              "RelativeToolTip": "UnnamedDelegate\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:25:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study_A\\14th\\sln_14\\SortWithDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "SortWithDelegate\\Program.cs",
+              "ToolTip": "D:\\Study_A\\14th\\sln_14\\SortWithDelegate\\Program.cs",
+              "RelativeToolTip": "SortWithDelegate\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:33:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study_A\\14th\\sln_14\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "D:\\Study_A\\14th\\sln_14\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:10:22.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
